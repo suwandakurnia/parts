@@ -48,8 +48,8 @@
 					</div>
 
 					<div class="container-login100-form-btn m-t-32">
-						<button href="./home.html" class="login100-form-btn">
-							Login
+						<button class="login100-form-btn">
+							href="./home.html" Login
 						</button>
 					</div>
 
